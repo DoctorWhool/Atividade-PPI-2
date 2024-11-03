@@ -19,11 +19,10 @@ app.get('/', (req, res) => {
             <style>
                 body {
                     font-family: Arial, sans-serif;
-                    display: flex;
                     justify-content: center;
                     align-items: center;
                     height: 100vh;
-                    margin: 0;
+                    margin: center;
                 }
                 form {
                     display: flex;
